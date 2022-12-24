@@ -777,8 +777,8 @@ PlayerSettings:
   webGLDecompressionFallback: 0
   webGLPowerPreference: 2
   scriptingDefineSymbols:
-    Android: 
-    Standalone: 
+    Android: OCULUSINTEGRATION_PRESENT
+    Standalone: OCULUSINTEGRATION_PRESENT
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend:
